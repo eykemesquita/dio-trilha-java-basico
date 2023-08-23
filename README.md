@@ -52,5 +52,6 @@ Você pode [acessar o código fonte do projeto](src/ContaTerminal.java).
 
 <h2>Desenvolvedor</h2>
 
-![xWhatsApp Image 20<img width="300" alt="xWhatsApp Image 2023-08-23 at 17 54 07" src="https://github.com/eykemesquita/dio-trilha-java-basico/assets/88750399/67ba8e39-13dd-4a09-a74d-5d4500d8e9bb">
+<img width="150" alt="xWhatsApp Image 2023-08-23 at 17 54 07" src="https://github.com/eykemesquita/dio-trilha-java-basico/assets/88750399/db990a7b-d83c-4656-824d-f776d6d97fc1">
+
 
