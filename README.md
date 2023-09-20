@@ -17,7 +17,7 @@ Vamos exercitar todo o conteúdo apresentado no módulo de Sintaxe codificando o
 | --------- | ---------| ------- 
 | Numero    | Inteiro  | 1021 
 | Agencia   | Texto    | 067-8
-| Nome Cliente | Texto    | MARIO ANDRADE
+| Nome Cliente | Texto    | EYKE MESQUITA
 | Saldo | Decimal |237.48
 
 
